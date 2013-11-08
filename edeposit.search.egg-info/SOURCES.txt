@@ -1,0 +1,14 @@
+README.txt
+setup.py
+edeposit/__init__.py
+edeposit.search.egg-info/PKG-INFO
+edeposit.search.egg-info/SOURCES.txt
+edeposit.search.egg-info/dependency_links.txt
+edeposit.search.egg-info/entry_points.txt
+edeposit.search.egg-info/namespace_packages.txt
+edeposit.search.egg-info/not-zip-safe
+edeposit.search.egg-info/requires.txt
+edeposit.search.egg-info/top_level.txt
+edeposit/search/__init__.py
+edeposit/search/search/__init__.py
+edeposit/search/search/tests.py
